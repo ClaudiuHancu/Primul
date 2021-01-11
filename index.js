@@ -1,2 +1,2 @@
 //const Claudiu = "test";
-module.exports={Claudiu:"web Designer"};
+module.exports={Claudiu:"WEB Designer"};
