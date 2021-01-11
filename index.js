@@ -1,1 +1,1 @@
-console.log("Katy Te iubesc!")
+module.exports={Claudiu:"web Designer"};
