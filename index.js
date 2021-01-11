@@ -1,2 +1,5 @@
 //const Claudiu = "test";
-module.exports={Claudiu:"WEB Designer"};
+module.exports = {
+    Claudiu: "WEB Designer",
+    Zura: function () { return "Pictor"; }
+};
