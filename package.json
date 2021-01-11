@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ClaudiuHancu/Primul#readme",
   "dependencies": {
+    "moment": "^2.29.1",
     "webpack": "^5.12.3"
   },
   "devDependencies": {
