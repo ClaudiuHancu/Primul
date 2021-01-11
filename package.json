@@ -1,0 +1,25 @@
+{
+  "name": "Claudiu",
+  "version": "1.0.0",
+  "description": "Ma invat Jawa",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiuHancu/Primul.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudiuHancu/Primul/issues"
+  },
+  "homepage": "https://github.com/ClaudiuHancu/Primul#readme",
+  "dependencies": {
+    "webpack": "^5.12.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.3.1"
+  }
+}
